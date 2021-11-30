@@ -1,0 +1,35 @@
+/* *{
+    border: 1px solid red !important;
+   
+} */
+.ms-image{
+    width: 108px;
+    height: 23px;
+}
+
+.nav-ullist li{
+font-size: 20px;
+}
+.test ul{
+    list-style: none;
+    font-size: .75rem;
+    color: #616161;
+}
+.para{
+    font-weight: 600;
+    font-size: 16px;
+    color: #950c17;
+    cursor: pointer;
+    text-decoration: none;
+}
+.para:hover{
+    text-decoration: underline;
+    color: #950c17;
+}
+
+
+.section{
+    /* width: 11.9rem; */
+    height: 7rem;
+    
+}
